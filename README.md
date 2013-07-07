@@ -1,4 +1,4 @@
-ARVaslabSVN
+Pegah Augmented Reality Architect
 ===========
 
 This online subversion client repository created to improve the collaboration of our team working.
